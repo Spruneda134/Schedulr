@@ -23,8 +23,3 @@ Schedulr puts calendar events at the center of social interaction. Users can onl
 - **Backend:** Firebase Auth & Firestore  
 - **Local Storage:** Core Data  
 - **Navigation & UI:** Custom navigation coordinator, matched-geometry transitions  
-
----
-
-## Hashtags
-#SwiftUI #UIKit #iOS #Firebase #MobileApp #ProductivityApp #SocialApp #MVVM #CoreData #EventPlanning #Swift
