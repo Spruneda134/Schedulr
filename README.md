@@ -26,12 +26,5 @@ Schedulr puts calendar events at the center of social interaction. Users can onl
 
 ---
 
-## Future Enhancements
-- Push notifications for events  
-- Calendar import/export (.ics support)  
-- Event templates for recurring occasions  
-
----
-
 ## Hashtags
 #SwiftUI #UIKit #iOS #Firebase #MobileApp #ProductivityApp #SocialApp #MVVM #CoreData #EventPlanning #Swift
